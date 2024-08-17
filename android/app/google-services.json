@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616238862575",
+    "project_id": "shaadi-biyaah",
+    "storage_bucket": "shaadi-biyaah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616238862575:android:2a3629adef1cade22f4b1a",
+        "android_client_info": {
+          "package_name": "com.shaadiibiyaah.net"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnvpZTVqmUqH-LeSFpcgiMzW0-YuJgTWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
